@@ -26,16 +26,6 @@ NumPy
 Scikit-learn  
 Matplotlib  
 
-## How to Run
-
-1 Clone repository
+Clone repository
 
 git clone https://github.com/Areefbaba/ipl-score-predictor
-
-2 Install requirements
-
-pip install -r requirements.txt
-
-3 Run notebook
-
-Open `ipl_score_prediction.ipynb`
