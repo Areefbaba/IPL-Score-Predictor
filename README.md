@@ -28,4 +28,4 @@ Matplotlib
 
 Clone repository
 
-git clone https://github.com/Areefbaba/ipl-score-predictor
+git repo link: https://github.com/Areefbaba/ipl-score-predictor
